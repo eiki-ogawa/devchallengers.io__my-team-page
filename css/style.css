@@ -1,0 +1,77 @@
+.wrap {
+    height: 1489px;
+    width: 1440px;
+    position: absolute;
+    fill: Solid;
+}
+
+h1 {
+    float: left;
+    margin-top: 110px;
+    margin-left: 243px;
+    margin-right: 215px;
+    margin-bottom: 75px;
+    font-family: PT Serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: -0.045em;
+}
+
+.description {
+    margin-top: 110px;
+    margin-right: 265px;
+    font-family: Poppins;
+    font-size: 18px;
+    overflow-wrap: break-word;
+}
+
+.who {
+    margin: 18px;
+    font-weight: 600;
+}
+
+.we {
+    margin: 0px;
+}
+
+.photo {
+    margin-left: 240px;
+    margin-top: 100px;
+    clear: left;
+    float: left;
+}
+.edge {
+    margin: 0px;
+    float: left;
+}
+
+.center {
+    margin: 60px;
+    margin-top: 100px;
+    float: left;
+}
+
+.human {
+    margin-bottom: 132px;
+}
+
+img {
+    height: 341px;
+    width: 237px;
+
+}
+
+.position {
+    margin-block-end: 10px;
+    float: right;
+    writing-mode: vertical-rl;
+    font-family: PF Serif;
+    font-size: 12px;
+}
+
+.name {
+    clear: left;
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 600;
+}
